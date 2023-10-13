@@ -1,4 +1,9 @@
-# Foodify is a sleek and efficient food-ordering website built with React.
-– Creating a responsive food ordering website using React, allowing users to browse restaurants, select menu items,
-  manage their cart, and complete orders.
+# Foodify is a responsive FoodOrdering Website  website built with React.
+
+- Responsive FoodOrdering  Website Design
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
 – Technology Used: Javascript, Reactjs, Tailwind CSS.
